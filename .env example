@@ -1,0 +1,3 @@
+DB = ""
+JWTPRIVATEKEY = "secretkey"
+SALT = 10
